@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bootstrap">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bootstrap</output-path>
+    <root id="archive" name="Bootstrap.jar">
+      <element id="module-output" name="Bootstrap" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/swinger-1.0.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/openlauncherlib-3.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/s-update-3.1.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/openauth-1.0.3-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

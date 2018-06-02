@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="launcher">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <properties id="ant-preprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="launcher.jar">
+      <element id="module-output" name="Launcher" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
